@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="670a97de-c294-4649-a1fd-11c0bf4850cd" name="lntu">
+        <fileTransfer rootFolder="/root/zzy/YOLOV5" accessType="SFTP" host="10.11.26.111" port="22" sshConfigId="01b142bf-b274-4d4b-b7aa-dbc352fb63b3" sshConfig="root@10.11.26.111:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
